@@ -16,6 +16,7 @@
 - [Optimization & MDO](#optimization--mdo)
 - [AI Surrogates & Datasets](#ai-surrogates--datasets)
 - [Vehicle Dynamics, EV & System Simulation](#vehicle-dynamics-ev--system-simulation)
+- [Powertrain & Engine Dynamics](#powertrain--engine-dynamics)
 - [HPC & Workflow](#hpc--workflow)
 - [Commercial Reference (for context)](#commercial-reference-for-context)
 - [Standards, Regulations & Communities](#standards-regulations--communities)
@@ -104,6 +105,12 @@
 - [CARLA](https://carla.org) - Open-source driving simulator.
 - [esmini](https://github.com/esmini/esmini) - OpenSCENARIO player. ![stars](https://img.shields.io/github/stars/esmini/esmini?style=flat-square) ![release](https://img.shields.io/github/release-date/esmini/esmini?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/esmini/esmini?style=flat-square)
 - [CommonRoad](https://commonroad.in.tum.de) - Benchmarks for motion planning of vehicles.
+
+## Powertrain & Engine Dynamics
+
+- [OpenFOAM ICengines](https://github.com/OpenFOAM/ICengines) - Example cases for IC-engine CFD in OpenFOAM-dev: piston and valve motion with the `multiValveEngine` mesh mover and mesh-to-mesh mapping. ![stars](https://img.shields.io/github/stars/OpenFOAM/ICengines?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/OpenFOAM/ICengines?style=flat-square)
+- [openTorsion](https://github.com/Aalto-Arotor/openTorsion) - Python library for torsional vibration of shaft lines (e.g. crankshafts): FE models, natural frequencies, mode shapes, forced response, and time-stepping. ![stars](https://img.shields.io/github/stars/Aalto-Arotor/openTorsion?style=flat-square) ![release](https://img.shields.io/github/release-date-pre/Aalto-Arotor/openTorsion?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Aalto-Arotor/openTorsion?style=flat-square)
+- [Slider-Crank](https://github.com/JAlcocerT/Slider-Crank) - Python notebooks and web apps (Streamlit / Dash) for slider-crank kinematics: piston position, offset effect, and connecting-rod angle over the crank cycle (GPL-3.0). ![stars](https://img.shields.io/github/stars/JAlcocerT/Slider-Crank?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JAlcocerT/Slider-Crank?style=flat-square)
 
 ## HPC & Workflow
 
